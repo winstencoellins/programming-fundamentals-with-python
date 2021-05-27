@@ -1,4 +1,4 @@
-# Programming Fundamentals with Python
+# Programming Fundamentals with Python by Chi - Gen
 Selamat datang di kelas ini. Selama pertemuan ini, kalian akan mempelajari fondasi yang kuat untuk memasuki dunia pemrograman.
 
 ## Week 1
