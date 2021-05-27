@@ -1,4 +1,4 @@
-# Week 2 Programming Fundamentals
+# Week 2 Programming Fundamentals Assignment
 Catatan Week 2 terdapat pada file `Week2_Prog_Fund.pdf`.
 
 # Control Flow
