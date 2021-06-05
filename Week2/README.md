@@ -75,3 +75,17 @@ Tuliskan sebuah function di Python yang mengoutput sebuah persegi. Jika input `n
 Output:
 
 ![alt text](https://github.com/winstencoellins/programming-fundamentals-with-python/blob/main/Week2/images/square.png)
+
+# List of List
+## Soal 1: Output Matriks
+
+Tuliskan sebuah function yang mengoutput list of list menjadi sebuah matriks
+
+Output:
+
+
+## Soal 2: Penjumlahan Matriks
+
+Tuliskan sebuah function yang mengoutput hasil jumlah kedua matriks
+
+Output:
