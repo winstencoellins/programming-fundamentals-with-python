@@ -81,11 +81,18 @@ Output:
 
 Tuliskan sebuah function yang mengoutput list of list menjadi sebuah matriks
 
+![alt text](https://github.com/winstencoellins/programming-fundamentals-with-python/blob/main/Week2/images/print_matrix.png)
+
 Output:
 
+![alt text](https://github.com/winstencoellins/programming-fundamentals-with-python/blob/main/Week2/images/output_print_matrix.png)
 
 ## Soal 2: Penjumlahan Matriks
 
 Tuliskan sebuah function yang mengoutput hasil jumlah kedua matriks
 
+![alt text](https://github.com/winstencoellins/programming-fundamentals-with-python/blob/main/Week2/images/matrix_addition.png)
+
 Output:
+
+![alt text](https://github.com/winstencoellins/programming-fundamentals-with-python/blob/main/Week2/images/output_matrix_addition.png)
