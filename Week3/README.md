@@ -1,5 +1,7 @@
 # Week 3 Programming Assignment
 
+Catatan Week 3 terdapat pada file `Week3_Prog_Fund.pdf`.
+
 ## Dictionary
 ## Soal 1: Convert List into Dictionary
 
