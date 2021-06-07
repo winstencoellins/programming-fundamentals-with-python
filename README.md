@@ -1,5 +1,5 @@
 # Programming Fundamentals with Python by Chi - Gen
-Selamat datang di kelas ini. Selama pertemuan ini, kalian akan mempelajari fondasi yang kuat untuk memasuki dunia pemrograman.
+In this course, I will be guiding you step by step in order to have a good understanding about the world of programming. By the end of the course, I expect my students to understand the very basic concept of OOP before starting / choosing their career in the world of tech.  
 
 ## Week 1
 Materi pelajaran (catatan dan PR) terdapat pada folder Week 1
