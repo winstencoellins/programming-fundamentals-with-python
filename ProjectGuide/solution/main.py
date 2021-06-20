@@ -2,6 +2,9 @@ from bank import Bank
 import csv
 import time
 
+# Memeriksa apakah username dan password yang diinput oleh user benar
+# Return True: jika password benar
+# Return False: jika password salah
 def check_is_user(usrname, pwd):
   d = {}
   with open("user_data.csv") as csv_file:
@@ -15,6 +18,9 @@ def check_is_user(usrname, pwd):
       return True
   return False
 
+# Fungsi ini bertujuan untuk menarik data dari user_data.csv sesuai dengan username dan
+# password yang digunakan untuk login dan mengembalikan sebuah list yang akan digunakan
+# untuk mengisi parameter dari object Bank
 def pull_account(usrname):
   lst = []
   with open("user_data.csv") as csv_file:
@@ -27,11 +33,18 @@ def pull_account(usrname):
         break
   return lst
 
+# Fungsi ini bertujuan untuk meregistrasi username, password, dan credit ke dalam
+# file user_data.csv apabila semua kondisi terpenuhi pada saat user memilih 
+# "make a new account"
 def register_account(usrname, pwd, credit):
   with open("user_data.csv", 'a') as csv_file:
     w = csv.writer(csv_file)
     w.writerow([usrname, pwd, credit])
 
+# Fungsi ini bertujuan untuk memeriksa apakah username yang diisi oleh user
+# telah ada di dalam file user_data.csv.
+# Return True: jika username telah ada di dalam file user_data.csv
+# Return False: jika username belum ada di dalam file user_data.csv
 def has_account(usrname):
   usern = []
   with open("user_data.csv") as csv_file:
