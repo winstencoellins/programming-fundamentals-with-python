@@ -62,7 +62,7 @@ def has_account(usrname):
 def main():
   # Code here
 ```
-Setelah selesai melakukan copy paste dan mengerti kode - kode diatas, buatlah sebuah file baru dan berikan nama `user_data.csv`. Di dalam `user_data.csv` tuliskan tiga kata tersebut sesuai dengan yang ada pada gambar dibawah dan tekan `enter` pada keyboard Anda. <strong><em>Ingat, jangan ada satupun spasi atau code kalian akan error</em></strong>
+Setelah selesai melakukan copy paste dan mengerti kode - kode diatas, buatlah sebuah file baru dan berikan nama `user_data.csv`. Di dalam `user_data.csv` tuliskan tiga kata tersebut sesuai dengan yang ada pada gambar dibawah dan tekan `enter` pada keyboard Anda. <strong><em>Ingat, jangan ada satupun spasi atau code kalian akan error</em></strong>. Semua code yang akan kalian tulis akan dicode di dalam function `main()`.
 
 CSV Output:
 
