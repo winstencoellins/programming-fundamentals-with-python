@@ -2,7 +2,7 @@
 Pada project akhir ini, kalian akan membuat sebuah sistem banking yang sangat sederhana tentunya dengan semua skill yang telah kalian dapatkan selama 3 minggu ini.
 
 # Guide to Start the Project
-Tahap - tahap yang saya tulis akan menjadi panduan bagi kalian untuk menyelesaikan project tersebut. Bacalah dengan seksama dan usahakan untuk mengerti setiap baris dari kode yang akan ditulis. <strong><em>Saya tidak akan mengupload kode yang saya tulis sendiri di git hub, melainkan saya ingin Anda untuk bisa mengkoding dengan usaha Anda sendiri</em></strong>. Anda bisa meminta bantuan saya, google, teman Anda, ataupun kerabat Anda yang memiliki pengalaman di dunia pemrograman. Good luck!
+Tahap - tahap yang saya tulis akan menjadi panduan bagi kalian untuk menyelesaikan project tersebut. Bacalah dengan seksama dan usahakan untuk mengerti setiap baris dari kode yang akan ditulis. <strong><em>Cobalah kerjakan project dengan maksimal. Jika kalian tersangkut, maka kalian boleh melihat code yang saya tulis sebagai referensi. Pastikan jika kalian ingin mengcopy paste code yang saya tulis, kalian harus mengerti apa yang dilakukan oleh code tersebut</em></strong>. Anda bisa meminta bantuan saya, google, teman Anda, ataupun kerabat Anda yang memiliki pengalaman di dunia pemrograman. Good luck!
 
 # Step 1: Setup the Project
 Copy paste kode dibawah ini ke `main.py`. Function python yang dituliskan ini akan membantu mempermudah pekerjaan Anda. Jadi pastikan kalian menggunakannya saat diperlukan dan <strong><em>pastikan kalian benar - benar mengerti apa yang dilakukan kode yang dituliskan di dalam function tersebut</em></strong>.
