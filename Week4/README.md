@@ -70,7 +70,7 @@ Overall Ability: B (74)
 
 Note: `[]` di output bukan menandakan bahwa itu adalah list/array melainkan itu tergantung pada parameter yang diberikan kepada object.
 
-# Soal 2
+### Soal 2
 
 Game yang sedang booming sekarang yaitu Genshin Impact (Mihoyo), game dari China. Disini kita akan mengimplementasi OOP sederhana untuk game ini. Buatlah sebuah class
 bernama GenshinChar yang memiliki attribute eat, walk, dan run.
