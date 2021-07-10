@@ -17,7 +17,7 @@ cara untuk menggunakannya https://www.programiz.com/python-programming/modules/m
 ```python
 class Student:
   # Constructor
-  def __init__(self, class, name, academic, physical, adapt, social):
+  def __init__(self, class_name, name, academic, physical, adapt, social):
     pass
   
   # Attr
