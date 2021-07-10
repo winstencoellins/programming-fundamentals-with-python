@@ -9,9 +9,9 @@ Setiap attribute akan mengembalikan (return) nilai dalam bentuk huruf (A, B, C, 
 - C: 45 <= nilai <= 69
 - D: <= 44
 
-Rumus untuk menghitung nilai overall: `(academic + physical + adapt + (social contribution * 0.5)) / 350 * 100` (rounded down)
+Rumus untuk menghitung nilai overall: `(academic + physical + adapt + (social contribution * 0.5)) / 350 * 100` (rounded up)
 
-Hint: untuk membulatkan nilai float ke bawah, gunakan `import math` di python lalu gunakan `math.floor()`. Dokumentasi ini dapat membantu jika kalian tidak mengerti
+Hint: untuk membulatkan nilai float ke bawah, gunakan `import math` di python lalu gunakan `math.ceil()`. Dokumentasi ini dapat membantu jika kalian tidak mengerti
 cara untuk menggunakannya https://www.programiz.com/python-programming/modules/math
 
 ```python
@@ -64,7 +64,7 @@ Class 1-B - Ichinose Honami
 Academic Ability: A (86)
 Physical Ability: C (54)
 Adaptability: B (70)
-Social Contribution: 96 (A)
+Social Contribution: A (96)
 Overall Ability: B (74)
 ```
 
