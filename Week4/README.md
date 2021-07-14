@@ -11,7 +11,7 @@ Setiap attribute akan mengembalikan (return) nilai dalam bentuk huruf (A, B, C, 
 
 Rumus untuk menghitung nilai overall: `(academic + physical + adapt + (social contribution * 0.5)) / 350 * 100` (rounded up)
 
-Hint: untuk membulatkan nilai float ke bawah, gunakan `import math` di python lalu gunakan `math.ceil()`. Dokumentasi ini dapat membantu jika kalian tidak mengerti
+Hint: untuk membulatkan nilai float ke atas, gunakan `import math` di python lalu gunakan `math.ceil()`. Dokumentasi ini dapat membantu jika kalian tidak mengerti
 cara untuk menggunakannya https://www.programiz.com/python-programming/modules/math
 
 ```python
